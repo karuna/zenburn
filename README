@@ -1,0 +1,4 @@
+Repository for all zenburn related theme
+
+vim          -> ~/.vim/colors/zenburn.vim
+konsole-2.0  -> ~/.kde4/share/apps/konsole/zenburn.colorscheme
